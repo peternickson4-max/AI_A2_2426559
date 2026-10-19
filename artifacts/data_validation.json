@@ -1,0 +1,31 @@
+{
+  "input_rows": 283,
+  "missing_by_column": {
+    "rainfall_mm": 0,
+    "avg_temp_c": 0,
+    "soil_moisture_pct": 14,
+    "fertilizer_kg": 15,
+    "field_size_ha": 0,
+    "season": 0,
+    "cooperative_support": 0,
+    "yield_tons": 0,
+    "high_risk": 0
+  },
+  "exact_duplicate_rows": 3,
+  "clean_rows": 280,
+  "removed_duplicates": 3,
+  "clean_missing_by_column": {
+    "rainfall_mm": 0,
+    "avg_temp_c": 0,
+    "soil_moisture_pct": 14,
+    "fertilizer_kg": 14,
+    "field_size_ha": 0,
+    "season": 0,
+    "cooperative_support": 0,
+    "yield_tons": 0,
+    "high_risk": 0
+  },
+  "verification_code": "AI-A2-6559",
+  "seed": 6559,
+  "sha256": "8d73118edf81e6635bcbfcd8f0463715f0f9af95a316684cef47c17388f60673"
+}

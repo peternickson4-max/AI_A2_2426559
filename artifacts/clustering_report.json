@@ -1,0 +1,46 @@
+{
+  "verification_code": "AI-A2-6559",
+  "silhouette_scores": {
+    "2": 0.16272406829602584,
+    "3": 0.14064241813134284,
+    "4": 0.15212867947177675,
+    "5": 0.15439102356907872,
+    "6": 0.1560333351390515
+  },
+  "selected_k": 2,
+  "profiles": [
+    {
+      "cluster": 0,
+      "farms": 124,
+      "mean_rainfall_mm": 976.22,
+      "mean_soil_moisture_pct": 53.16,
+      "mean_fertilizer_kg": 117.23,
+      "mean_field_size_ha": 2.02,
+      "common_season": "A",
+      "plain_language_profile": "Relatively wetter farms"
+    },
+    {
+      "cluster": 1,
+      "farms": 156,
+      "mean_rainfall_mm": 999.58,
+      "mean_soil_moisture_pct": 52.46,
+      "mean_fertilizer_kg": 121.63,
+      "mean_field_size_ha": 2.35,
+      "common_season": "A",
+      "plain_language_profile": "Relatively drier farms"
+    }
+  ],
+  "features_used": [
+    "rainfall_mm",
+    "avg_temp_c",
+    "soil_moisture_pct",
+    "fertilizer_kg",
+    "field_size_ha",
+    "cooperative_support",
+    "season"
+  ],
+  "target_columns_excluded": [
+    "yield_tons",
+    "high_risk"
+  ]
+}

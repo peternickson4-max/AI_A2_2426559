@@ -1,0 +1,8 @@
+IMPORTANT — ACTION REQUIRED BY STUDENT
+
+The assignment requires one continuous, unedited narrated MP4 (maximum 2 minutes), with a handwritten identity card and visible terminal clock. A genuine live demonstration cannot be generated or truthfully represented by this project builder.
+
+Before submitting:
+1. Record evidence/AI_A2_2426559_DEMO.mp4 yourself.
+2. Show your name, registration number, AI-A2-6559, final commit hash, run_all.py, generated fingerprint/artifacts, a metrics JSON and plot, valid and invalid CLI predictions, API /health and /predict plus a validation error, pytest -q, report/declaration, and terminal clock.
+3. Remove this note after adding the actual video.

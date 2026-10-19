@@ -1,0 +1,23 @@
+{
+  "verification_code": "AI-A2-6559",
+  "test_rows": 70,
+  "metrics": {
+    "mean_baseline": {
+      "MAE": 2.1503710068027218,
+      "RMSE": 2.6538281556502477,
+      "R2": -0.004739762009112969
+    },
+    "linear_regression": {
+      "MAE": 0.8375105591438193,
+      "RMSE": 1.0400875471069086,
+      "R2": 0.8456709126172269
+    },
+    "random_forest": {
+      "MAE": 1.0880006425199051,
+      "RMSE": 1.3402139259543104,
+      "R2": 0.7437544999930744
+    }
+  },
+  "selected_model": "linear_regression",
+  "selection_reason": "Lowest held-out MAE among the two candidate regressors."
+}
